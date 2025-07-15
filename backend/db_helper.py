@@ -1,17 +1,23 @@
+from dotenv import load_dotenv
+import os
 import mysql.connector
 from contextlib import contextmanager
 from logging_setup import setup_logger
+
+load_dotenv()  # Load .env variables
 
 logger = setup_logger("db_helper")
 
 @contextmanager
 def get_db_cursor(commit=False):
     connection = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="root",
-        database="expense_manager"
+        host=os.getenv("DB_HOST"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
+        database=os.getenv("DB_NAME")
     )
+    ...
+
 
     if connection.is_connected():
         print("Connection successful")
