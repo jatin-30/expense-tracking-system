@@ -1,0 +1,66 @@
+2025-04-14 18:07:40,309 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:08:46,588 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:08:51,239 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:08:54,363 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:11:52,043 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:16:04,265 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:16:10,562 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:25:04,541 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:25:26,795 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:25:45,040 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:27:29,616 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:29:14,250 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:33:33,869 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-14 18:40:48,258 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-15 22:02:14,193 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-15 22:02:26,664 - name - INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-15 22:02:33,262 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-15 22:13:10,486 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-15 22:13:15,254 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-15 22:13:17,324 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-04-15 22:23:33,749 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-15 22:23:37,361 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-15 22:23:39,426 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-04-15 23:46:39,417 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-15 23:48:31,584 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-15 23:52:00,109 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-15 23:52:06,997 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-15 23:52:09,084 - name - INFO - fetch_monthly_expenses called with start:2024-08-01, end:2024-08-31
+2025-04-16 00:06:23,287 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-16 00:06:34,186 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 00:06:42,741 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 00:06:44,812 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-04-16 00:07:00,583 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 11:03:56,647 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 11:04:05,007 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 11:04:07,133 - name - INFO - fetch_expenses_for_month called with year:2025, month:1
+2025-04-16 11:04:13,271 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 11:04:17,832 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 11:04:19,031 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-16 11:04:21,122 - name - INFO - fetch_expenses_for_month called with year:2024, month:9
+2025-07-15 20:29:48,062 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-07-15 20:30:13,832 - name - INFO - fetch_expenses_for_date called with 2024-08-12
+2025-07-15 20:30:18,602 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:30:27,564 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:30:29,637 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-07-15 20:30:43,062 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:30:45,130 - name - INFO - fetch_expenses_for_month called with year:2025, month:1
+2025-07-15 20:30:57,463 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:31:06,494 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:31:08,559 - name - INFO - fetch_expenses_for_month called with year:2024, month:1
+2025-07-15 20:31:15,504 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:31:19,042 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:31:21,113 - name - INFO - fetch_expenses_for_month called with year:2024, month:8
+2025-07-15 20:33:39,552 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:33:41,602 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-07-15 20:35:19,680 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:35:21,739 - name - INFO - fetch_expenses_for_month called with year:2024, month:8
+2025-07-15 20:35:35,362 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:35:37,419 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-07-15 20:35:50,435 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:35:52,506 - name - INFO - fetch_expenses_for_month called with year:2024, month:8
+2025-07-15 20:38:49,681 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:38:51,734 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-05
+2025-07-15 20:39:58,987 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:40:02,170 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-07-15 20:40:04,235 - name - INFO - fetch_expense_summary called with start:2024-08-01, end:2024-08-01
